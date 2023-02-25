@@ -8,7 +8,7 @@
 <img src="ws3.png">
 <img src="ws4.png"><br><hr>
 
-<p style="text-align:center">
+<p style="text-align: center">
 <img src="ws_thumb.png">
 </p>
 
