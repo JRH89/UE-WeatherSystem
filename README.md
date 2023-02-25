@@ -1,13 +1,6 @@
 
 <h1>Weather System</h1>
 
-
-<img src="Rain_Defaults.png">
-<img src="ws1.png">
-<img src="ws2.png">
-<img src="ws3.png">
-<img src="ws4.png"><br><hr>
-
 <p style="text-align: center">
 <img src="ws_thumb.png">
 </p>
@@ -28,5 +21,12 @@
 <li>
 <p>SFX</p>
 </li>
+<img src="Rain_Defaults.png">
+<img src="ws1.png">
+<img src="ws2.png">
+<img src="ws3.png">
+<img src="ws4.png"><br><hr>
+
+
 
 
