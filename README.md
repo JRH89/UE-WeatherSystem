@@ -1,7 +1,7 @@
 
 <h1>Weather System</h1>
 
-<img src=Rain_Defaults.png">
+<img src="Rain_Defaults.png">
 <img src="ws1.png">
 <img src="ws2.png">
 <img src="ws3.png">
