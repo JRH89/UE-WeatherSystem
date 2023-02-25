@@ -1,8 +1,8 @@
 
 <h1>Weather System</h1>
-<div style="align:center">
+
 <img src="ws_thumb.png">
- </div>
+
 <img src="Rain_Defaults.png">
 <img src="ws1.png">
 <img src="ws2.png">
