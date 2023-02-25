@@ -7,7 +7,7 @@
 
 <h2>Drag and Drop!</h2>
 <p>Just drag and drop a rainbox or snowbox where you want the weather event to occur.</p>
-<p>Features:</p><br>
+<p><u>Features:<u></p>
 <ul>
 <li>
 <p>Rain</p>
