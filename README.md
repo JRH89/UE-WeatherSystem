@@ -1,3 +1,6 @@
+Download from the releases section or go here:
+<a href="https://github.com/JRH89/UE-WeatherSystem/releases/download/v1/WeatherSystem.zip">https://github.com/JRH89/UE-WeatherSystem/releases/download/v1/WeatherSystem.zip</a>
+
 
 <h1>Weather System</h1>
 
